@@ -57,9 +57,9 @@
 	<div id="header">
 		<div id="masthead">
 			<div id="branding" role="banner">
-              <img src="/wp/wp-content/themes/drosera-green/images/Drosera_03.jpg" 
+              <img src="/wp-content/themes/drosera-green/images/Drosera_03.jpg" 
                    alt="Drosera Logo" width="150" height="150" />
-              <img src="/wp/wp-content/themes/drosera-green/images/Drosera_02.jpg" 
+              <img src="/wp-content/themes/drosera-green/images/Drosera_02.jpg" 
                    alt="Drosera Logo" width="150" height="150" />
 				<?php $heading_tag = ( is_home() || is_front_page() ) ? 'h1' : 'div'; ?>
 				<<?php echo $heading_tag; ?> id="site-title">

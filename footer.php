@@ -22,7 +22,7 @@
 ?>
 
 			<div id="site-info">
-&#xA9; 2010 <a href="/ajr/index.html">Andrew Robbins</a>
+&#xA9; 2010 <a href="//drosoft.org/ajr/">Andrew Robbins</a>
 <!--
 				<a href="<?php echo home_url( '/' ) ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home">
 					<?php bloginfo( 'name' ); ?>
